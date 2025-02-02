@@ -5,11 +5,12 @@ My workspace for regular SQL practice and learning. I use this repo to stay cons
 ## Practice Areas
 
 ### Dataset Work
-- Working with sample datasets (e-commerce, video games, warehouse)
+- Working with sample datasets (e-commerce, video games, warehouse inventory)
 - Writing complex queries
 - Practicing data modeling
 
 ### Interview Prep
+- DataLemur problems
 - StrataScratch problems
 - HackerRank SQL challenges
 - SQL Game exercises
