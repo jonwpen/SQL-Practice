@@ -17,9 +17,4 @@ My workspace for regular SQL practice and learning. I use this repo to stay cons
 ### Learning Notes
 Quick references for SQL concepts I'm studying or want to remember.
 
-## Weekly Goals
-- Solve 2-3 medium SQL problems
-- Practice 1 new SQL concept
-- Document learnings in notes
-
 *This is a personal learning repository. For my portfolio projects and professional work, visit johnpen.carrd.co*
